@@ -1,5 +1,6 @@
-import Header from "./components/Header/Header";
+import React from "react";
 import "./app.scss";
+import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import AccContainer from "./components/AccContainer/AccContainer";
 import CTA from "./components/CTA/CTA";
